@@ -8,5 +8,5 @@ setup(
     author="sebastianjkern",
     license="MIT",
     packages=['pygl'],
-    data_files=[('shaders', ["pygl/sc.f.glsl", "pygl/shader.v.glsl"])]
+    data_files=[('shaders', ["sc.f.glsl", "shader.v.glsl"])]
 )
